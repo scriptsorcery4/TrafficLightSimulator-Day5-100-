@@ -19,8 +19,8 @@ To set up and run the TrafficLightSimulator, follow these steps:
 1. **Download the repository**:
 
     ```bash
-    git clone https://github.com/your-username/TrafficLightSimulator.git
-    cd TrafficLightSimulator
+    git clone https://github.com/scriptsorcery4/TrafficLightSimulator-Day5-100-.git
+    cd TrafficLightSimulator-Day5-100-
     ```
 
 2. **Upload the code to your Arduino**:
